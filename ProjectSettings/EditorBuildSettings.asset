@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: e65630b2c0ba905489c7eff9ae65a38b
+  - enabled: 1
+    path: Assets/Scenes/playsahnesi.unity
+    guid: fd0451cbf3099fb47811de17d975c83a
+  - enabled: 1
+    path: Assets/Scenes/player1winContunie.unity
+    guid: a96894712dc9e864eaaa134651081983
+  - enabled: 1
+    path: Assets/Scenes/player2winCountinue.unity
+    guid: 144dbd778d12b1a4baf76e108ba022da
+  - enabled: 1
+    path: "Assets/Scenes/b\xF6l\xFCm1.1.unity"
+    guid: 11117b9e699b13e418ae7b3ac0f0d488
+  - enabled: 1
+    path: "Assets/Scenes/b\xF6l\xFCm1.2.unity"
+    guid: 9c254e8f82a961944864979db0a66eb0
+  - enabled: 1
+    path: "Assets/Scenes/b\xF6l\xFCm1.3.unity"
+    guid: 943b83dc37009db4abdf1ce0ef65312b
+  - enabled: 1
+    path: Assets/Scenes/settings.unity
+    guid: c9c0e49e574d02348bffdcd42394fed8
+  m_configObjects: {}
